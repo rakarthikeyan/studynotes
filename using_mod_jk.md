@@ -1,3 +1,7 @@
+layout: page
+title: "Using mod_jk"
+permalink: /URL-PATH/
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -1022,7 +1026,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Clustering.
   By using Apache as a front end you can let Apache act as a front door to your
@@ -1035,7 +1039,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Clustering/Security.
   You can also use Apache as a front door to different Tomcats for different
@@ -1048,7 +1052,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Security.
   This topic can sway one either way. Java has the security manager while
@@ -1061,7 +1065,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Add-ons.
   Adding on CGI, perl, PHP is very natural to Apache. Its slower and more of a
@@ -1072,7 +1076,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Decorators!
   With Apache in front of Tomcat, you can perform any number of decorators that
@@ -1084,7 +1088,7 @@ cG5nUEsFBgAAAAAGAAYAfAEAACUeAAAAAA==
   tab-stops:list .5in;background:white'><![if !supportLists]><span
   style='font-size:10.0pt;mso-bidi-font-size:13.0pt;font-family:Symbol;
   mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#172B4D'><span
-  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  style='mso-list:Ignore'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span></span><![endif]><span style='font-size:13.0pt;font-family:
   "Segoe UI","sans-serif";mso-fareast-font-family:"Times New Roman";color:#172B4D'>Speed.
   Apache is faster at serving static content than Tomcat. But unless you have a
